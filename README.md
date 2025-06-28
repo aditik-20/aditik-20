@@ -1,6 +1,6 @@
-> *“Dream big, code bigger.”*
+> # *“Dream big, code bigger.”*
 
-# 👋 Welcome to my GitHub
+
 
 # ⭐ About me
 🔁 In a loop: learn → solve → repeat (DSA grind mode 💻)
