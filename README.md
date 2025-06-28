@@ -48,17 +48,3 @@ LinkedIn URL: www.linkedin.com/in/akkrishna
 
 
 
-## 🔥 Popular Repositories
-
-
-<p align="center">
-    <a href="https://github.com/aditikrishsharma/my_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditikrishsharma&repo=my_portfolio&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aditikrishsharma/StriverDSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditikrishsharma&repo=StriverDSA&theme=radical" />
-  </a>
- </p>
