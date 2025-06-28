@@ -2,6 +2,9 @@
 
 # 👋 Welcome to my GitHub
 
+# ⭐ About me
+🔁 In a loop: learn → solve → repeat (DSA grind mode 💻)
+
 
 
 ## 👤 Basic Info:
@@ -13,7 +16,7 @@ Full Name : Aditi Krishna
 
 My Portfolio : https://akrishna.vercel.app/
 
-Current Role or Goal: Sophomore at SRM Institute of Science And Technology, aspiring web developer.
+Current Role: Sophomore at SRM Institute of Science And Technology, aspiring web developer.
 
 
 ## 🌐 Social Links:
