@@ -10,7 +10,7 @@
 ## 👤 Basic Info:
 
 
-GitHub Username: aditikrishsharma
+GitHub Username: aditik-20
 
 Full Name : Aditi Krishna
 
