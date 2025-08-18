@@ -40,12 +40,13 @@ LinkedIn URL: www.linkedin.com/in/akkrishna
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditik-20 &show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditikrishsharma&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditik-20 &theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditikrishsharma&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditik-20 &layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditikrishsharma&layout=compact&theme=radical" />
 </p>
+
 
 
 
