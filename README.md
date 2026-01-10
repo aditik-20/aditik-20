@@ -36,11 +36,16 @@ LinkedIn URL: www.linkedin.com/in/akkrishna
 
 
 ## 📊 My GitHub Stats
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditik-20&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditik-20&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditik-20&layout=compact&theme=radical)
+
+</div>
+
 
 
 
