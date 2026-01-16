@@ -10,27 +10,50 @@ I am Aditi Krishna, a sophomore at SRM Institute of Science and Technology with 
 
 - **GitHub Username:** aditik-20  
 - **Full Name:** Aditi Krishna  
-- **Portfolio:** https://akrishna.vercel.app/  
+- **Portfolio:** [akrishna.vercel.app](https://akrishna.vercel.app/)  
 - **Current Role:** Sophomore at SRM Institute of Science and Technology | Aspiring Web Developer  
 
 ---
 
 ## 🌐 Social Links
 
-- **LinkedIn:** https://www.linkedin.com/in/akkrishna  
+- **LinkedIn:** [linkedin.com/in/akkrishna](https://www.linkedin.com/in/akkrishna)  
 
 ---
 
-## 💻 Tech Stack<p align="left">
+## 💻 Tech Stack
 
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> 
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
 ---
 
+## 🏆 Achievements
+
+- Top achiever of my department for academic performance and technical excellence.  
+- Participated in hackathons and tech competitions to enhance practical skills.  
+- Consistently focused on learning, problem-solving, and building impactful projects.  
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced Data Structures & Algorithms  
+- Web Development frameworks (React, Node.js)  
+- Artificial Intelligence & Machine Learning  
+- AWS Cloud services  
+
+---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aditik-20&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aditik-20)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditik-20&layout=compact)
