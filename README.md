@@ -1,47 +1,36 @@
-> # *“Dream big, code bigger.”*
+# *“Dream big, code bigger.”*
 
+## ⭐ About Me
 
+I am Aditi Krishna, a sophomore at SRM Institute of Science and Technology with a strong interest in software development and problem-solving. I am currently focused on building a solid foundation in Data Structures and Algorithms while actively working on web development projects. I enjoy learning through hands-on experience, writing clean and structured code, and continuously improving my technical skills by building practical and scalable solutions.
 
-# ⭐ About me
-🔁 In a loop: learn → solve → repeat (DSA grind mode 💻)
+---
 
+## 👤 Basic Info
 
+- **GitHub Username:** aditik-20  
+- **Full Name:** Aditi Krishna  
+- **Portfolio:** https://akrishna.vercel.app/  
+- **Current Role:** Sophomore at SRM Institute of Science and Technology | Aspiring Web Developer  
 
-## 👤 Basic Info:
+---
 
+## 🌐 Social Links
 
-GitHub Username: aditik-20
+- **LinkedIn:** https://www.linkedin.com/in/akkrishna  
 
-Full Name : Aditi Krishna
+---
 
-My Portfolio : https://akrishna.vercel.app/
+## 💻 Tech Stack<p align="left">
 
-Current Role: Sophomore at SRM Institute of Science And Technology, aspiring web developer.
-
-
-## 🌐 Social Links:
-LinkedIn URL: www.linkedin.com/in/akkrishna
-
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" style="margin-right: 10px;" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" style="margin-right: 10px;" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" style="margin-right: 10px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" style="margin-right: 10px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" style="margin-right: 10px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" style="margin-right: 10px;" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aditik-20&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aditik-20)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditik-20&layout=compact)
-
-
+---
 
