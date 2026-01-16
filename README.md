@@ -21,9 +21,6 @@ I am Aditi Krishna, a sophomore at SRM Institute of Science and Technology with 
 
 ---
 
-## 💻 Tech Stack
-
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
