@@ -29,12 +29,7 @@ I am Aditi Krishna, a sophomore at SRM Institute of Science and Technology with 
 
 
 ---
-## 🔖 Badges
 
-![GitHub followers](https://img.shields.io/github/followers/aditik-20?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/aditik-20?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/aditik-20?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/aditik-20?style=flat-square)
 
 ## 🏆 Achievements
 
